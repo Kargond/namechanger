@@ -1,0 +1,7 @@
+settings:
+  changeInternalPlayerName: true
+mysql:
+  host: localhost
+  name: root
+  password: root
+  database: server

@@ -1,0 +1,7 @@
+name: NameChanger
+version: 1.0
+main: ru.kargond.namechanger.Main
+depend: [ProtocolLib]
+author: Kargond
+commands:
+  name:
